@@ -1,0 +1,14 @@
+#filters {
+  margin-bottom: 20px;
+}
+
+#filters select {
+  margin-right: 10px;
+}
+
+.publication-item {
+  border: 1px solid #ddd;
+  margin-bottom: 15px;
+  padding: 10px;
+  border-radius: 5px;
+}
